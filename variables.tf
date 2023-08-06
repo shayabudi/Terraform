@@ -7,7 +7,7 @@ default     = "dev"
 variable "resource_alias" {
   description = "Your name"
   type        = string
-  default     = "daria"
+  default     = "shay"
 }
 
 variable "vpc_cidr" {
